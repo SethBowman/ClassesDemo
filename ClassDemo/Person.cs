@@ -18,19 +18,20 @@ namespace ClassDemo
         }
 
         //Custom Constructor
-        public Person(string name, int age, bool isMarried, string hairColor, double weight)
+        public Person(string name, int age, bool isMarried, string hairColor)
         {
             Name = name;
             Age = age;
             IsMarried = isMarried;
-            HairColor = hairColor;
-            Weight = weight;
+            HairColor = hairColor;            
         }
+
+        //Properties
         public string Name { get; set; }
         public int Age { get; set; }
         public bool IsMarried { get; set; }
         public string HairColor { get; set; }
-        public double Weight { get; set; }
+        
 
         //Method in class (non static)
         public void Greet()
