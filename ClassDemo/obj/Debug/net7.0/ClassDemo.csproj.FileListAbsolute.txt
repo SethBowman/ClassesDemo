@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\bin\Debug\net7.0\ClassDemo.exe
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\bin\Debug\net7.0\ClassDemo.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\bin\Debug\net7.0\ClassDemo.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\bin\Debug\net7.0\ClassDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\bin\Debug\net7.0\ClassDemo.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ClassDemo.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ClassDemo.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ClassDemo.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ClassDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\refint\ClassDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ClassDemo.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ClassDemo.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\ClassDemo\ClassDemo\obj\Debug\net7.0\ref\ClassDemo.dll
